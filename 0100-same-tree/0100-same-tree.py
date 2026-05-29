@@ -14,7 +14,6 @@ class Solution(object):
         countp = []
         countq = []
         
-        # Changed to Preorder (Root -> Left -> Right)
         def preorder(root, count):
             if root is None:
                 count.append(None)
