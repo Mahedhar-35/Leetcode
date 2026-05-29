@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0100-same-tree) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 ## Sliding Window
 |  |
@@ -176,17 +177,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahedhar-35/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahedhar-35/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahedhar-35/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
