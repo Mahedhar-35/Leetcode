@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mahedhar-35/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Mahedhar-35/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mahedhar-35/Leetcode/tree/master/0049-group-anagrams) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mahedhar-35/Leetcode/tree/master/0046-permutations) |
