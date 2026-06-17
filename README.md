@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mahedhar-35/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mahedhar-35/Leetcode/tree/master/0342-power-of-four) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mahedhar-35/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mahedhar-35/Leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Mahedhar-35/Leetcode/tree/master/0342-power-of-four) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
